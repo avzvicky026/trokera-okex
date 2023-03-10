@@ -1,5 +1,5 @@
 {
-    "name": "trokera-okex",
+    "name": "trokeraokex",
     "type": "library",
     "description": "Okex API Like the official document interface, Support for arbitrary extension.",
     "license": "MIT",
