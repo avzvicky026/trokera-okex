@@ -54,7 +54,7 @@ Support V3 V5 API
 
 #### Installation
 ```
-composer require linwj/okex
+composer require trokera/okxapi
 ```
 
 Support for more request Settings [More](https://github.com/zhouaini528/okex-php/blob/master/tests/spot/proxy.php#L21)
