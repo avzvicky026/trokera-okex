@@ -1,4 +1,4 @@
-{
+m{
     "name": "trokera/okxapi",
     "type": "library",
     "description": "Okex API Like the official document interface, Support for arbitrary extension.",
@@ -21,5 +21,5 @@
         "workerman/workerman": "*",
         "workerman/globaldata": "*"
     },
-    "minimum-stability": "beta"
+    "minimum-stability": "dev-master"
 }
