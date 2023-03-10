@@ -1,0 +1,24 @@
+{
+    "name": "trokera-okex",
+    "type": "library",
+    "description": "Okex API Like the official document interface, Support for arbitrary extension.",
+    "license": "MIT",
+    "keywords": ["bitmex", "binance", "okex", "huobi","kucoin","kumex"],
+    "authors": [
+        {
+            "name": "trokera",
+            "email": "avz.vicky@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lin\\Okex\\": "./src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "*",
+        "workerman/workerman": "*",
+        "workerman/globaldata": "*"
+    }
+}
