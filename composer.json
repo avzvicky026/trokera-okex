@@ -1,4 +1,4 @@
-m{
+{
     "name": "trokera/okxapi",
     "type": "library",
     "description": "Okex API Like the official document interface, Support for arbitrary extension.",
