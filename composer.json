@@ -20,5 +20,6 @@
         "guzzlehttp/guzzle": "*",
         "workerman/workerman": "*",
         "workerman/globaldata": "*"
-    }
+    },
+    "minimum-stability": "beta"
 }
